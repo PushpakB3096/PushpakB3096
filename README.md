@@ -12,8 +12,8 @@
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue,js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue,js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
 - 💻 &nbsp;
