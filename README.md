@@ -29,6 +29,78 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 343 Contributions in the Year 2021
+ > 
+> 📦 15.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+🌆 Daytime    204 commits    ███████████░░░░░░░░░░░░░░   47.0% 
+🌃 Evening    154 commits    ████████░░░░░░░░░░░░░░░░░   35.48% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
+Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
+Wednesday    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+Thursday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+Friday       64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Saturday     137 commits    ████████░░░░░░░░░░░░░░░░░   31.57% 
+Sunday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████████████░░░░░░░░░   66.67% 
+Vue                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/PushpakB3096/PushpakB3096/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
