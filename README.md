@@ -8,15 +8,15 @@
 - 💼 &nbsp; Working as a Software Engineer at Aryaka Networks.
 - 🌱 &nbsp; Learning more about computer science, writing scalabale code and web engineering everyday.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-- 🌐 &nbsp;
+<!-- - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue,js)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
   
-- 💻 &nbsp;
+<!-- - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -24,7 +24,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
 
 <br/>
 
