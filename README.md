@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Software Engineer at Aryaka Networks.
+- 💼 &nbsp; Working as a Software Engineer at Vamstar.
 - 🌱 &nbsp; Learning more about computer science, writing scalabale code and web engineering everyday.
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
