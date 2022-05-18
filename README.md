@@ -19,10 +19,10 @@
 <br/>
 
 
-<a href="https://github.com/PushpakB3096">
+<!-- <a href="https://github.com/PushpakB3096">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PushpakB3096&show_icons=true&theme=merko" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpakB3096&theme=merko&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
