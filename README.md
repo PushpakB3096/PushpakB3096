@@ -30,5 +30,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pushpak-bhattacharya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pushpak%20Bhattacharya-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rtpushpak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rtpushpak@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:hire@pushpakbhattacharya.com"><img alt="Email" src="https://img.shields.io/badge/Email-hire@pushpakbhattacharya.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.pushpakbhattacharya.com"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-My%20Portfolio-orange"></a>
 </p>
